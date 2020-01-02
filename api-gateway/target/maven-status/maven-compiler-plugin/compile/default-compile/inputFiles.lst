@@ -1,0 +1,4 @@
+D:\spring-microservices-docker\spring-microservices-master\api-gateway\src\main\java\br\com\codeshare\microservices\gateway\Application.java
+D:\spring-microservices-docker\spring-microservices-master\api-gateway\src\main\java\br\com\codeshare\microservices\gateway\configuration\WebConfiguration.java
+D:\spring-microservices-docker\spring-microservices-master\api-gateway\src\main\java\br\com\codeshare\microservices\gateway\configuration\HystrixFallbackConfiguration.java
+D:\spring-microservices-docker\spring-microservices-master\api-gateway\src\main\java\br\com\codeshare\microservices\gateway\configuration\RibbonConfiguration.java
